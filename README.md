@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 ## Design
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1922-count-good-numbers) |
 ## String
@@ -50,6 +52,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [1669-merge-in-between-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1669-merge-in-between-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
