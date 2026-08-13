@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0008-string-to-integer-atoi) |
+| [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
