@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
