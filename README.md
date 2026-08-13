@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1922-count-good-numbers) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [1669-merge-in-between-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1669-merge-in-between-linked-lists) |
 ## Two Pointers
