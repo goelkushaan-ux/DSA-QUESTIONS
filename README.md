@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
