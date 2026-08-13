@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -359,8 +361,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
