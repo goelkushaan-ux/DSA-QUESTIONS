@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
