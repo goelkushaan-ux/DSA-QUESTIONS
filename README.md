@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2951-find-the-peaks](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
