@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 ## Newton's Method
 |  |
 | ------- |
