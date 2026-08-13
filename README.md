@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
 | [2951-find-the-peaks](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2951-find-the-peaks) |
+| [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1922-count-good-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
