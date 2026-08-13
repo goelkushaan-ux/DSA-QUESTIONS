@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
