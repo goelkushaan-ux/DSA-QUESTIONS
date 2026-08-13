@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1922-count-good-numbers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Prefix Sum
 |  |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
