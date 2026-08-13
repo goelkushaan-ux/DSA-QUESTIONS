@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0162-find-peak-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0148-sort-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
