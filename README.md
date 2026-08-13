@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
