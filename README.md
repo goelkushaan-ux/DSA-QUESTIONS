@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
