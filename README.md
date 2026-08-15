@@ -426,6 +426,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
 hi this is kushaan
