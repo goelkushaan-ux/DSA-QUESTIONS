@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1768-merge-strings-alternately](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1768-merge-strings-alternately) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2104-sum-of-subarray-ranges) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
