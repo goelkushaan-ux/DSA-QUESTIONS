@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2104-sum-of-subarray-ranges) |
@@ -459,6 +462,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
 
 hi this is kushaan
