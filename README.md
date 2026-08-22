@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
