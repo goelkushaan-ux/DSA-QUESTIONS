@@ -1,27 +1,26 @@
 class Solution {
 public:
+    int helper(const string& s, int i, long long num, int sign) {
+        if (i >= s.size() || !isdigit(s[i]))
+            return num * sign;
+        num = num * 10 + (s[i] - '0');
+        if (sign == 1 && num > INT_MAX)
+            return INT_MAX;
+        if (sign == -1 && -num < INT_MIN)
+            return INT_MIN;
+        return helper(s, i + 1, num, sign);
+    }
+
     int myAtoi(string s) {
-        long long num = 0;
-        int sin = 1;
-        int i=0;
+        int i = 0;
         while (i < s.size() && s[i] == ' ')
             i++;
-        if (i == s.size())
-            return 0;
-        if (s[i] == '+')
-            i++;
-        else if (s[i] == '-') {
-            sin = -1;
+        int sign = 1;
+        if (i < s.size() && (s[i] == '+' || s[i] == '-')) {
+            if (s[i] == '-')
+                sign = -1;
             i++;
         }
-        while (i < s.size() && isdigit(s[i])) {
-            num = num * 10 + s[i] - '0';
-            if (sin * num <= INT_MIN)
-                return INT_MIN;
-            if (sin * num >= INT_MAX)
-                return INT_MAX;
-            i++;
-        }
-        return num * sin;
+        return helper(s, i, 0, sign);
     }
 };
