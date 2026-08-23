@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
@@ -509,6 +512,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
 
 hi this is kushaan
