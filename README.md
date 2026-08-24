@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
