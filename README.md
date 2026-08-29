@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
+| [0860-lemonade-change](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0860-lemonade-change) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
