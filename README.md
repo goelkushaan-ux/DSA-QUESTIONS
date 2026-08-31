@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0131-palindrome-partitioning) |
