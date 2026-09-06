@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -601,6 +602,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
 
 hi this is kushaan
