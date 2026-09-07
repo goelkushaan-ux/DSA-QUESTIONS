@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tournament Sort
 |  |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
@@ -621,6 +626,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
 
 hi this is kushaan
