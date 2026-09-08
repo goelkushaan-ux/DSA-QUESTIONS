@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0860-lemonade-change) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
