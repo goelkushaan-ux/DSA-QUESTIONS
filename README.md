@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
