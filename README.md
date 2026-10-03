@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
 |  |
