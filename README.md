@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0860-lemonade-change) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
