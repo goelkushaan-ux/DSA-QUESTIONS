@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
