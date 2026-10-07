@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0662-maximum-width-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
