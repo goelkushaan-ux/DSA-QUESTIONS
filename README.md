@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0136-single-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0131-palindrome-partitioning) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
