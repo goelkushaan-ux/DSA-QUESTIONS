@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
