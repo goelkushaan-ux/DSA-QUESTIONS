@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2951-find-the-peaks](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
