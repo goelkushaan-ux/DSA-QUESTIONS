@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0541-reverse-string-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -846,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
@@ -854,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
