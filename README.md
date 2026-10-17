@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
