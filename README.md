@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
