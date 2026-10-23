@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
