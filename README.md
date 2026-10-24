@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
