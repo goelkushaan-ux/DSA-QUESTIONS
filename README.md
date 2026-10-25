@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
 |  |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bubble Sort
 |  |
@@ -901,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
