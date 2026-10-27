@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0846-hand-of-straights) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0912-sort-an-array) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0860-lemonade-change) |
@@ -671,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
