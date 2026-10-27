@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Backtracking
