@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
