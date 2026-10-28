@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Queue
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
