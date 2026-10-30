@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0860-lemonade-change) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1669-merge-in-between-linked-lists) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
 
 hi this is kushaan
