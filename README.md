@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0846-hand-of-straights) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0901-online-stock-span) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1929-concatenation-of-array) |
