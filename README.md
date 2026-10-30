@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1446-consecutive-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1446-consecutive-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
