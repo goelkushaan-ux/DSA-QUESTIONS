@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3665-twisted-mirror-path-count](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
