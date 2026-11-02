@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0846-hand-of-straights) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/0836-rectangle-overlap) |
