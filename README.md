@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3364-minimum-positive-sum-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/1652-defuse-the-bomb) |
+| [3364-minimum-positive-sum-subarray](https://github.com/goelkushaan-ux/DSA-QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
 |  |
 | ------- |
